@@ -24,6 +24,7 @@
 - **Ejemplo:**  
   Si se ingresa el número `5`, se imprimirá:
 
+```plaintext
 5 x 1 = 5
 5 x 2 = 10
 5 x 3 = 15
@@ -34,8 +35,9 @@
 5 x 8 = 40
 5 x 9 = 45
 5 x 10 = 50
-5 x 11= 55
+5 x 11 = 55
 5 x 12 = 60
+```
 
 ## 🔀 Ejercicio 3: Tablas pares o impares (`tablasSeleccionadas.js`)
 
