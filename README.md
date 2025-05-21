@@ -59,5 +59,6 @@ Combinar condicionales `if` con bucles `for` para realizar una tarea dinámica.
 
 > Si queremos probar un ejercicio por separado, puedes comentar los otros `<script>` en el `index.html` y dejar solo el que estás probando.
 
+# **FIN**
 
 
