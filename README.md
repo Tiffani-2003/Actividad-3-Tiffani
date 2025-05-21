@@ -57,5 +57,5 @@ Combinar condicionales `if` con bucles `for` para realizar una tarea dinámica.
 2. Cada script usa un `prompt` para que el usuario escriba un dato.
 3. El resultado se muestra en la consola.
 
-> Si queremos probar un ejercicio por separado, puedes comentar los otros `<script>` en el `index.html` y dejar solo el que estás probando.
+Si queremos probar un ejercicio por separado, puedes comentar los otros `<script>` en el `index.html` y dejar solo el que estás probando.
 
